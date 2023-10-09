@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "209248706077",
+    "project_id": "cobalt-academy-376006",
+    "storage_bucket": "cobalt-academy-376006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209248706077:android:98d0b62c1ce32efa36b0f4",
+        "android_client_info": {
+          "package_name": "ai.plaito.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209248706077-rdv4g27h3un2ti494js16t5lkontprsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgU4Tv123gsDo6DlwrtSFGpX5Y2-auwEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209248706077-rdv4g27h3un2ti494js16t5lkontprsr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209248706077-2r4j3t7nse3shb544kqh37trcocctb82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiTutorFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

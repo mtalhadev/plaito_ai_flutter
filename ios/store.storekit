@@ -1,0 +1,104 @@
+{
+  "identifier" : "59F07B34",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1673761502",
+    "_developerTeamID" : "WA75RNY7HB",
+    "_lastSynchronizedDate" : 700880994.19124305
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21242631",
+      "localizations" : [
+
+      ],
+      "name" : "Membership",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "299.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6446323771",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access all Plaito features for one year.",
+              "displayName" : "Annual",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ios_annual_sub2",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "ios_annual_sub",
+          "subscriptionGroupID" : "21242631",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "29.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6446037360",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access all Plaito features for one month",
+              "displayName" : "Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ios_monthly_sub",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "ios_monthly_sub",
+          "subscriptionGroupID" : "21242631",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "79.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6446037689",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access all Plaito features for three months",
+              "displayName" : "Semester",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ios_semester_sub",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "ios_semester_sub",
+          "subscriptionGroupID" : "21242631",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

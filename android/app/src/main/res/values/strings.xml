@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">576898154254969</string>
+    <string name="facebook_client_token">f19579d7eb246742f632fb4b2db784ee</string>
+    <string name="app_name">Plaito</string>
+</resources>
